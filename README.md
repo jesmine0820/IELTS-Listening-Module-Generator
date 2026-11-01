@@ -30,10 +30,3 @@ python app.py
 2. Click Generate to produce questions and audios.
 3. Preview the generated questions and audio.
 4. Download the results in PDF or Text format.
-
-## Future Work
-* Support multi-language instructions
-* Improve audio generation quality
-
-## Contributing
-* Contributions are welcome! Fell free to submit issues or pull requests for improvements.
